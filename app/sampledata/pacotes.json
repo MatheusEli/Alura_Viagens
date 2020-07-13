@@ -1,0 +1,40 @@
+{
+  "pacotes": [
+    {
+      "local": "São Paulo",
+      "imagem": "@drawable/sao_paulo_sp",
+      "dias": "2 dias",
+      "preco": "R$ 243,99"
+    },
+    {
+      "local": "Belo Horizonte",
+      "imagem": "@drawable/belo_horizonte_mg",
+      "dias": "3 dias",
+      "preco": "R$ 421,50"
+    },
+    {
+      "local": "Recife",
+      "imagem": "@drawable/recife_pe",
+      "dias": "4 dias",
+      "preco": "R$ 754,20"
+    },
+    {
+      "local": "Rio de Janeiro",
+      "imagem": "@drawable/rio_de_janeiro_rj",
+      "dias": "6 dias",
+      "preco": "R$ 532,55"
+    },
+    {
+      "local": "Salvador",
+      "imagem": "@drawable/salvador_ba",
+      "dias": "5 dias",
+      "preco": "R$ 899,99"
+    },
+    {
+      "local": "Foz do Iguaçu",
+      "imagem": "@drawable/foz_do_iguacu_pr",
+      "dias": "1 dia",
+      "preco": "R$ 289,90"
+    }
+  ]
+}
