@@ -9,16 +9,17 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".ui.activity.ResumoCompraActivity"></activity>
-        <activity android:name=".ui.activity.PagamentoActivity" />
-        <activity android:name=".ui.activity.ResumoPacoteActivity" />
-        <activity android:name=".ui.activity.ListaPacotesActivity">
+        <activity android:name=".ui.activity.SplashScreenActivity" android:theme="@style/AlertDialog.AppCompat.TelaCheia">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".ui.activity.ResumoCompraActivity" />
+        <activity android:name=".ui.activity.PagamentoActivity" />
+        <activity android:name=".ui.activity.ResumoPacoteActivity" />
+        <activity android:name=".ui.activity.ListaPacotesActivity"/>
     </application>
 
 </manifest>
